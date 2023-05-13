@@ -1,16 +1,11 @@
-### Hi there 👋
+### Bem vindo ao meu perfil
+ 
+meu nome e amanda galdino dos santos 
+estou estudando na alura
+estou me desenvolvendo na linguagem javScript
+ultilizo esse espaço para minha organizaçao e 
+compartilhamento dos meus projetos desenvolvidos 
 
-<!--
-**luah06/luah06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo 
+amanda.galdinodos.santos@escola.pr.gov.br
+@amanda_ahh
